@@ -1,2 +1,4 @@
 #!/usr/bin/env ruby
 
+puts "Please enter 1-9:"
+gets user_input.chomb
